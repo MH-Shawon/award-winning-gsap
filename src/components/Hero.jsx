@@ -6,8 +6,8 @@ const Hero = () => {
         className="relative z-10 h-dvh overflow-hidden rounded-lg bg-blue-75 w-screen "
       >
         <div>
-          <div className="mask-clip-path">
-
+          <div className="mask-clip-path absolute-center absolute z-50 size-64 cursor-pointer overflow-hidden rounded-lg">
+            <div className="font-circular-web">mini video player</div>
           </div>
         </div>
       </div>
